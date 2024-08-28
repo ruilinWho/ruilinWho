@@ -1,7 +1,11 @@
 Hello, I am RuiLin Hu (胡瑞麟).
 
-I'm from the School of Computer Science at Beihang University and will soon be enrolling at Tsinghua University in 2024.
+I'm a master student from Tsinghua University (Computer Science department, [DBgroup](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)).
 
-Currently, I focus on developing Text-to-SQL methods and Retrieval-Augmented Language models.
+Currently, my research interest include:
 
-If you would like to discuss anything with me, feel free-free-free to contact me on WeChat at "RuilinWho".
+- Developing Text-to-SQL methods
+- QA methods on tabular data
+- Retrieval-Augmented Systems
+
+If you would like to discuss anything with me, feel free to contact me on WeChat at "RuilinWho".
