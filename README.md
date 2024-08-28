@@ -6,6 +6,5 @@ Currently, my research interest include:
 
 - Developing Text-to-SQL methods
 - QA methods on tabular data
-- Retrieval-Augmented Systems
 
 If you would like to discuss anything with me, feel free to contact me on WeChat at "RuilinWho".
